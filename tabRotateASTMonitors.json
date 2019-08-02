@@ -1,0 +1,13 @@
+{
+  "settingsReloadIntervalMinutes": 5,
+  "fullscreen": true,
+  "autoStart": false,
+  "lazyLoadTabs": false,
+  "websites": [
+    {
+      "url": "https://watchguardvideo.atlassian.net/secure/RapidBoard.jspa?rapidView=16&projectKey=ELC&view=reporting&chart=burndownChart&sprint=439",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 86400
+    }
+  ]
+}
