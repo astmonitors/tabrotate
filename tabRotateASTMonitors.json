@@ -23,6 +23,16 @@
       "url": "https://watchguardvideo.atlassian.net/secure/RapidBoard.jspa?rapidView=141",
       "duration": 20,
       "tabReloadIntervalSeconds": 86400
+    },
+    {
+      "url": "https://watchguardvideo.atlassian.net/secure/Dashboard.jspa?selectPageId=13059",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 86400
+    },
+    {
+      "url": "https://watchguardvideo.atlassian.net/secure/Dashboard.jspa?selectPageId=13060",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 86400
     }
   ]
 }
