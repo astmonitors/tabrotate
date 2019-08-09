@@ -10,23 +10,18 @@
       "tabReloadIntervalSeconds": 86400
     },
     {
-      "url": "https://watchguardvideo.atlassian.net/secure/RapidBoard.jspa?rapidView=146",
-      "duration": 20,
+      "url": "http://10.1.0.191/images/dme_20190809.png",
+      "duration": 40,
       "tabReloadIntervalSeconds": 86400
     },
     {
-      "url": "https://watchguardvideo.atlassian.net/secure/RapidBoard.jspa?rapidView=140",
-      "duration": 20,
+      "url": "http://10.1.0.191/images/defect_trends_20190809.png",
+      "duration": 40,
       "tabReloadIntervalSeconds": 86400
     },
     {
-      "url": "https://watchguardvideo.atlassian.net/secure/RapidBoard.jspa?rapidView=139",
-      "duration": 20,
-      "tabReloadIntervalSeconds": 86400
-    },
-    {
-      "url": "https://watchguardvideo.atlassian.net/secure/RapidBoard.jspa?rapidView=141",
-      "duration": 20,
+      "url": "http://10.1.0.191/images/dev_escapes_20190809.png",
+      "duration": 40,
       "tabReloadIntervalSeconds": 86400
     },
     {
