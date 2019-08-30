@@ -10,17 +10,12 @@
       "tabReloadIntervalSeconds": 86400
     },
     {
-      "url": "http://10.1.0.191/images/dme_20190809.png",
+      "url": "http://10.1.0.191/images/evidence_library_defect_management_efficiency.png",
       "duration": 40,
       "tabReloadIntervalSeconds": 86400
     },
     {
-      "url": "http://10.1.0.191/images/defect_trends_20190809.png",
-      "duration": 40,
-      "tabReloadIntervalSeconds": 86400
-    },
-    {
-      "url": "http://10.1.0.191/images/dev_escapes_20190809.png",
+      "url": "http://10.1.0.191/images/evidence_library_defect_trends.png",
       "duration": 40,
       "tabReloadIntervalSeconds": 86400
     },
