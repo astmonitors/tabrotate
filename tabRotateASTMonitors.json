@@ -10,12 +10,12 @@
       "tabReloadIntervalSeconds": 86400
     },
     {
-      "url": "http://10.1.0.191/images/evidence_library_defect_management_efficiency.png",
+      "url": "http://10.1.0.191/astmonitors/evidence_library_defect_management_efficiency.html",
       "duration": 40,
       "tabReloadIntervalSeconds": 86400
     },
     {
-      "url": "http://10.1.0.191/images/evidence_library_defect_trends.png",
+      "url": "http://10.1.0.191/astmonitors/evidence_library_defect_trends.html",
       "duration": 40,
       "tabReloadIntervalSeconds": 86400
     },
