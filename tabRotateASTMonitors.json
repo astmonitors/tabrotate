@@ -7,17 +7,22 @@
     {
       "url": "https://evidencelibrary.status.io/",
       "duration": 20,
-      "tabReloadIntervalSeconds": 86400
+      "tabReloadIntervalSeconds": 5
     },
     {
-      "url": "https://drive.google.com/drive/folders/1663N_FVgKebSjLyhVZJfsjERMC24Qmhm",
+      "url": "http://10.1.0.191/astmonitors/evidence_library_defect_management_efficiency.html",
       "duration": 40,
-      "tabReloadIntervalSeconds": 86400
+      "tabReloadIntervalSeconds": 5
+    },
+    {
+      "url": "http://10.1.0.191/astmonitors/evidence_library_defect_trends.html",
+      "duration": 40,
+      "tabReloadIntervalSeconds": 5
     },
     {
       "url": "https://watchguardvideo.atlassian.net/secure/Dashboard.jspa?selectPageId=13059",
       "duration": 20,
-      "tabReloadIntervalSeconds": 86400
+      "tabReloadIntervalSeconds": 5
     }
   ]
 }
