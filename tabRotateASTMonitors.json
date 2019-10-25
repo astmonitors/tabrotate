@@ -9,13 +9,28 @@
       "duration": 20,
       "tabReloadIntervalSeconds": 5
     },
+	{
+      "url": "http://cwoods:8675/pipelineStatus",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 5
+    },
     {
       "url": "https://docs.google.com/presentation/d/1JE_ktAWAYee58h8vjGmafckWKuEmL9tyUSI2PJ_t7G0",
       "duration": 40,
       "tabReloadIntervalSeconds": 5
     },
+	{
+      "url": "http://cwoods:8675/pipelineStatus",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 5
+    },
     {
       "url": "https://watchguardvideo.atlassian.net/secure/Dashboard.jspa?selectPageId=13059",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 5
+    },
+	{
+      "url": "http://cwoods:8675/pipelineStatus",
       "duration": 20,
       "tabReloadIntervalSeconds": 5
     },
@@ -25,12 +40,27 @@
       "tabReloadIntervalSeconds": 5
     },
 	{
+      "url": "http://cwoods:8675/pipelineStatus",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 5
+    },
+	{
       "url": "https://docs.google.com/presentation/d/1NMi2xKpWtnL8Jx-069gD11F2G6RIoDo1WfWhYfJu3NU",
       "duration": 20,
       "tabReloadIntervalSeconds": 5
     },
 	{
+      "url": "http://cwoods:8675/pipelineStatus",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 5
+    },
+	{
       "url": "https://metrics.dev.evidencelibrary.com:3000/dashboard/snapshot/3rpnCj3jnrhBcncbrX4s9GD1WWbo5HXR",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 5
+    },
+	{
+      "url": "http://cwoods:8675/pipelineStatus",
       "duration": 20,
       "tabReloadIntervalSeconds": 5
     }
