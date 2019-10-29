@@ -63,6 +63,16 @@
       "url": "http://cwoods:8675/pipelineStatus",
       "duration": 20,
       "tabReloadIntervalSeconds": 5
+    },
+	{
+      "url": "https://metrics.dev.evidencelibrary.com:3000/dashboard/snapshot/atdLfIwhLgE7R7Qh11DR5ieIZvizQKPZ",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 5
+    },
+	{
+      "url": "http://cwoods:8675/pipelineStatus",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 5
     }
   ]
 }
